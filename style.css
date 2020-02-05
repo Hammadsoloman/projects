@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cairo|Reem+Kufi&display=swap');
+
+body{
+font-family: 'Courier New', Courier, monospace;   
+background-color: #f77148d5;
+padding-right: 10px;
+margin: 50px;
+}
+
+footer{
+width:100%;
+text-align:center;
+font-family: 'Cairo', sans-serif;
+color: #000;
+padding: 20px;
+}
+
+header{
+    width: 100%;
+box-sizing: unset;
+}
+nav{
+background-color: blueviolet;
+} 
+
+nav h1{
+text-align:center;
+color: #000;
+font-size:60px;
+padding-top:10px;
+padding-right:50px;
+
+}
+
+
+
+a {
+    color: #000;
+}
+
+nav ul li {
+inset-inline: 20px;
+font-size:30px;
+display: inline;
+
+}
+
+article p {
+    font-size: 20px;
+
+}
+
+
+
